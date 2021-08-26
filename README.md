@@ -37,11 +37,11 @@ https://app.diagrams.net/#G1hB0s40S_okEdq4uD83scDNaXFhE46Hm3
 https://docs.google.com/spreadsheets/d/1MKukODIPIKP0dX-Ij9MOxgNNewZDcx5iFNIExAHcPp8/edit#gid=0
 
 ## 機能一覧
-*ユーザー登録、ログイン機能（devise）
-*収入、固定、変動費科目登録機能
-*各項目の金額登録機能
-*各月の収支差表示機能
-*要望機能
+- ユーザー登録、ログイン機能（devise）
+- 収入、固定、変動費科目登録機能
+- 各項目の金額登録機能
+- 各月の収支差表示機能
+- 要望機能
 
 ## 開発環境
 - OS：Linux(CentOS)
